@@ -1,12 +1,10 @@
-body{
+body {
 	font-family: Aerial; border: 2px solid; margin: 40px;
 }
-
-	p{ 
+	p { 
 		font-size: 24px; padding: 5px;
 	}
- 
-	h1 { 
+ 	h1 { 
 		font-family: Geneva; font-size: 3m; text-align: center; 
 	} 
 
