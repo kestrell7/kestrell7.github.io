@@ -1,10 +1,7 @@
 body {
-	font-family: Aerial; border: 2px solid; margin: 40px;
+	font-family: Aerial; margin: 40px;
 }
 	p { 
-		font-size: 24px; padding: 5px;
+		font-size: 24px; 
 	}
- 	h1 { 
-		font-family: Geneva; font-size: 3m; text-align: center; 
-	} 
-
+ 
