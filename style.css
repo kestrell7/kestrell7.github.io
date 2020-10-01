@@ -1,9 +1,6 @@
 body {
-	font-family: Arial; margin: 40px;
+	background-color: 255, 253, 208; 
 }
-	p { 
-		font-size: 18 px; 
-	}
- h1 { 
-font-size: 2em;
+h1 {
+	background-color: 228b22; 
 }
